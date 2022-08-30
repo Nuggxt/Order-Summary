@@ -17,7 +17,7 @@ body {
 }
 .card {
 	overflow: hidden;
-	box-shadow: 0 15px 10px -5px hsla(223, 47%, 23%, 0.4);
+	box-shadow: 0 15px 10px -2px hsla(223, 47%, 23%, 0.1);
 	border-radius: 20px;
 	height: 675px;
 	width: 375px;
